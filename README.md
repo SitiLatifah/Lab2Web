@@ -1,11 +1,13 @@
-#Lab2Web
+# Lab2Web
+
 **Nama	   	: Siti Latifah** <br>
 **Nim	  	  : 312010321** <br>
 **Kelas	  	: TI.20.A2** <br>
 **Matkul	  : Pemrograman Web** <br>
 
 # Soal
-![Screenshot (66)](https://user-images.githubusercontent.com/73010098/159026182-d8975590-3cff-4c36-ad6c-dd825e28a2e3.pn
+
+![Screenshot (66)](https://user-images.githubusercontent.com/73010098/159030944-61f3d41c-ad66-4c23-a749-b8972dd4a6f8.png)
 
 ## CSS Dasar
 
