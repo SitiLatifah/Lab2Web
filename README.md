@@ -131,6 +131,7 @@ Kemudian tambahkan Tag <link>
 ![Screenshot (67)](https://user-images.githubusercontent.com/73010098/159029928-e73f827d-15c7-4a11-b26a-a004d884163c.png)
 
 5. Menambahkan CSS Selektor
+
 ``` html
 /* ID Selector */
 #intro {
@@ -156,6 +157,7 @@ text-decoration: none;
 .btn-primary {
 background: #E42A42;
 }
+```
 
 ## OUTPUT
 
